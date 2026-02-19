@@ -1,5 +1,5 @@
 # Use Java 17 base image
-FROM eclipse-temurin:17-jdk
+FROM eclipse-temurin:24-jdk
 
 WORKDIR /app
 
